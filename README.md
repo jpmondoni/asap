@@ -1,4 +1,4 @@
-/ ASAP
+# ASAP
 asap-eep codeground
 
 ASAP = As soon as possible. Esse foi o nome que escolhemos para o nosso time na primeira participação na XX Maratona de Programação em 2015. Após isso, continuamos usando esse nome para outros projetos e também na XXI Maratona de Programação :)
