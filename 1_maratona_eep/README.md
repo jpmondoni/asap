@@ -1,35 +1,7 @@
-#include <cstdio>
+# 1ª Maratona Interna de Programação da EEP
 
-int main(){
+Para auxiliar o grupo de estudos da maratona a se preparar, a ASAP elaborou exercícios em conjunto com o programa ASAPack (gerador de exercícios compatíveis com o Latam BOCA Linux) para que os outros alunos pudessem passar pela primeira experíência de uma maratona de programação. Na pasta "Packs" estão os pacotes com os casos de entrada e saída e os PDFs com os enunciados.
 
-    int N,i;
-    int T,G,drives=0;
-    double porcentagem,Taux,Gaux;
-    
-    while(scanf("%d %d %d",&N,&T,&G)!= EOF){
-        drives = 0;
-        T=T*N;
-        G=G*1073741824;
-        Taux=T;
-        Gaux=G;
-        porcentagem=Taux/Gaux*100;
-        
-        //printf("Espaco %lld de %lld [%.2lf]\n",T,G,porcentagem);
-        
-        if(porcentagem<100)
-            printf("1 dispositivo e %0.2f%%\n",porcentagem);
-        
-        else{
-            while(porcentagem>=100){
-                porcentagem-=100;
-                drives++;
-            }
-            if(porcentagem>0)
+Os exercícios tem nível fácil e foram resolvidos por alunos do 1º e 3º semestre de Ciência da Computação.
 
-
-                drives++;
-            printf("%d dispositivos e %0.2f%%\n",drives,porcentagem);
-        }
-    }
-    return 0;
-}
+Junto com o coordenador do curso, fizemos a organização do evento, que ocorreu em Maio de 2016.
