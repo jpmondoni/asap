@@ -14,4 +14,6 @@ Gabriel Fava de Souza (@gabrielfava)
 
 João Paulo Anibal Mondoni (@jpmondoni)
 
+João Victor Alves
+
 Lucas Augusto Cavenaghi (@lucasagcv)
