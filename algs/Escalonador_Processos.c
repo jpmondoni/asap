@@ -9,7 +9,6 @@
          P6     104    1     1      2     ?     |
 
     ** Escalonar processo baseado em 2 métodos: FIFO e Por Prioridade
-        Regras para escalonamento FIFO - CONSULTAR CADERNO 22/08/2015
 
     Notas:
     1 - Criar estrutura para armazenar os processos
