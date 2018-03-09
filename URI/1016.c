@@ -1,9 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 
-int main(){
-	int d, t;
-	scanf("%d",&d);
-	t=d*2;
-	printf("%d minutos\n",t);
+int main()
+{
+    int km, dist;
+    scanf("%d",&km);
+    dist = km * 2;
+    printf("%d minutos\n",dist);
+    return 0;
 }
