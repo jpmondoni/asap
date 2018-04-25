@@ -7,7 +7,7 @@ Neste repositório serão comitados algoritmos feitos durante o curso de Ciênci
 
 Isso inclui códigos para disiplinas de estrutura de dados (usando somente linguagem C e structs!), sistemas operacionais, estatística e até alguns trabalhos de métodos numéricos. A intenção é que outras pessoas possam se beneficiar deste conhecimento e também que possamos contribuir com a comunidade.
 
-# Equipe:
+# Contribuídores:
 
 Gabriel Fava de Souza (@gabrielfava)
 
